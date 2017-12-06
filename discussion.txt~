@@ -1,0 +1,157 @@
+SECTION 2.3
+
+gmmClassify was modifed to identify the accuracy of the guess. By adding the name of the speaker 
+to their mfcc I was able to identify if it had correctly guessed it.
+
+Since we are testing on a smaller number of speakers it should be easier for the system to find
+the right one. Therefore, I reduced the base gaussians (M), the iterations, dimensions (D), and 
+the epslion to a lower number that coresponds to the decrease in speakers.
+This was calculated by looking at the ratio, for example the origal M=8, since we have 30 speakers
+this the ration is 8/30 = 26%. So the correpsonding M for 15 speakers should be 26%*15 = 4, so our
+new M value will be 4. All the numbers were calulated in this fashion to ensure they are porportional
+to the real data.
+
+Control Variables:
+M=4
+epsilon = 1
+D = 5
+iter = 5 
+
+==========
+VARYING EPSILON
+
+1) epsilon = 1
+Accuracy: 15/15
+
+2) epsilon = 100
+Accuracy: 14/15
+
+3) epsilon = 0.0001
+Accuracy: 15/15
+
+
+As we can see that with epsilon varying, the results are still very accurate.
+This may be due to the small amount of test data we have that we are not able to 
+see enough difference. The only way to worsen the results is to exagerate epsilon.
+
+==========
+VARYING NUMBER OF COMPONENTS
+
+M = 4
+epsilon = 1
+Accuracy: 15/15
+
+M = 2
+epsilon = 1
+Accuracy: 15/15
+
+M = 1
+epsilon = 1
+Accuracy: 1/15
+
+It appears that the lower the amount of gaussians there are the less accurate the guess becomes.
+The sudden jump in accuracy can be explained by the lack of speakers. If we had more speakers 
+to test on we would probably see a progression of better results with higher M values.
+
+=========
+VARYING NUMBER OF POSSIBLE SPEAKERS
+
+M = 4
+eps = 1
+# of possible speakers = 15
+Accuracy: 15/15
+
+M = 4
+eps = 1
+# of possible speakers = 10
+Accuracy: 10/10
+
+M = 4
+eps = 1
+# of possible speakers = 5
+Accuracy: 5/5
+
+From experiments the number of speakers tested seems to not matter. This may be do to the 
+fact that assigning an utterance to a speaker is independant from the total number 
+of speakers that exist.Therefore increasing or decreasing the number of them would 
+not make a difference.However, if we were to reduce the trained data we would
+that it would get worse.
+
+=========
+1) How might you improve the classification accuracy of the Gaussian mixtures,
+   without adding more training data?
+
+   We could improve it by not assuming that all convariance matrix are diagnol. With
+   this we could allow correlatoins between feaure components to be taken into account.
+
+
+2) When would your classifier decide that a given test utterance comes from none
+   of the trained speaker models, how would your classifier come to this decision?
+
+   We could set a minimum to the likelihood so that if the closest possible speaker 
+   to the utterance does not meet that we would know the speaker does not exist. The
+   minimum would need to be experimented with the current data to find a viable 
+   minimum.
+
+3) Can you think of some alternative models for doing speaker identification
+   that don't use Gaussion mixtures?
+
+   Some alternatives go Gaussian mixtures could be; Vector Quantization, Support Vector Machines, 
+   or Neural Networks.
+
+===============================
+SECTION 3.2
+
+
+Accuracy for the control case:
+M = 8 
+Q = 3 
+D = 14
+with 30 speakers for training data
+Correctness = 45%
+
+
+M 		Q 		  Num of 		D 		Accuracy
+				 Speakers
+_________________________________________________________________________________
+
+8 		3 			10			14 		25 % 
+8 		3 			10			7		30 % 
+8 		3 			15 			14 		36 % 
+8 		3 			15 			7 		32 %
+
+8 		4 			10 			14 		28 %
+8 		4 			10 			7 		 %
+8 		4  			15 			14 		 %
+8 		4  			15 			7 		 %
+
+4 		3  			10 			14 		37 %
+4 		3  			10  		7 		 %
+4 		3  			15 			14 		 %
+4 	 	3  			15  		7 		 %
+
+4 		4 			10 			14 		 %
+4 		4  			10 			7 		 %
+4 		4  			15 			14 		 %
+4 		4  			15 			7
+
+
+
+1) I limited the training data so that the number of speakers used varied between
+   10-15 speakers. As can be seen at the beginning, with all 30 speakers trained
+   the accuracy was 45%. After limiting the number of speakers it was clear it had
+   and affect on the results.
+
+2) From experimentaion we can see that increasing the number of states (Q) from
+   3 to 4 increases the accuracy rate. 
+
+3) Reducing the dimensionality of the data made the accuracy worse. This is due to
+   the fact that with less dimensions to train on it is harder to get the right answer.
+
+4) Reducing the number of mixtures per state (M) improved the accuracy
+
+Note: Not all experiments could be performed because of lack of time
+=================================
+BONUS
+
+username: cuzo

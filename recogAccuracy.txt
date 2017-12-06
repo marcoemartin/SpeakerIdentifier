@@ -1,0 +1,1118 @@
+Correctly guessed sil
+Correctly guessed n
+Incorrectly guessed aw as aa
+Incorrectly guessed hv as ih
+Incorrectly guessed ih as eh
+Correctly guessed r
+Incorrectly guessed ix as ih
+Incorrectly guessed z as sh
+Incorrectly guessed tcl as kcl
+Incorrectly guessed t as k
+Incorrectly guessed r as er
+Incorrectly guessed uw as ey
+Incorrectly guessed l as ow
+Correctly guessed ih
+Incorrectly guessed ey as eh
+Incorrectly guessed m as n
+Correctly guessed aa
+Incorrectly guessed r as axr
+Incorrectly guessed v as dh
+Incorrectly guessed el as l
+Incorrectly guessed sil as pcl
+Incorrectly guessed sil as kcl
+Incorrectly guessed d as k
+Correctly guessed r
+Incorrectly guessed ao as aa
+Incorrectly guessed q as ay
+Incorrectly guessed eh as r
+Correctly guessed v
+Correctly guessed r
+Correctly guessed iy
+Incorrectly guessed q as ay
+Incorrectly guessed aw as aa
+Incorrectly guessed dx as axr
+Correctly guessed axr
+Incorrectly guessed l as ow
+Incorrectly guessed ay as aa
+Incorrectly guessed n as m
+Correctly guessed f
+Incorrectly guessed er as aa
+Correctly guessed s
+Correctly guessed tcl
+Correctly guessed t
+Incorrectly guessed pau as kcl
+Correctly guessed dh
+Incorrectly guessed eh as dh
+Correctly guessed n
+Incorrectly guessed f as z
+Incorrectly guessed ih as ow
+Incorrectly guessed l as ow
+Incorrectly guessed ih as k
+Correctly guessed n
+Incorrectly guessed dh as z
+Incorrectly guessed iy as y
+Incorrectly guessed ix as n
+Correctly guessed n
+Incorrectly guessed tcl as dh
+Correctly guessed t
+Incorrectly guessed ih as er
+Incorrectly guessed r as er
+Incorrectly guessed iy as n
+Correctly guessed axr
+Correctly guessed sil
+Incorrectly guessed sil as pau
+Incorrectly guessed ch as sh
+Incorrectly guessed ey as iy
+Incorrectly guessed n as q
+Incorrectly guessed dcl as tcl
+Correctly guessed jh
+Incorrectly guessed en as dcl
+Incorrectly guessed v as f
+Incorrectly guessed ao as aa
+Correctly guessed l
+Incorrectly guessed v as z
+Correctly guessed s
+Incorrectly guessed dh as z
+Incorrectly guessed ax as ux
+Correctly guessed dcl
+Incorrectly guessed d as s
+Incorrectly guessed ih as ey
+Incorrectly guessed s as z
+Incorrectly guessed pcl as sil
+Incorrectly guessed p as t
+Incorrectly guessed l as ax
+Incorrectly guessed ey as iy
+Correctly guessed s
+Incorrectly guessed epi as sil
+Incorrectly guessed m as q
+Incorrectly guessed ax as axr
+Incorrectly guessed n as tcl
+Incorrectly guessed q as tcl
+Correctly guessed ah
+Correctly guessed f
+Incorrectly guessed ao as p
+Incorrectly guessed m as gcl
+Incorrectly guessed sil as kcl
+Incorrectly guessed sil as tcl
+Correctly guessed t
+Incorrectly guessed uw as ux
+Correctly guessed hv
+Correctly guessed ih
+Incorrectly guessed z as s
+Incorrectly guessed pcl as sil
+Correctly guessed p
+Incorrectly guessed ah as l
+Correctly guessed z
+Incorrectly guessed el as l
+Incorrectly guessed m as n
+Correctly guessed eh
+Correctly guessed n
+Incorrectly guessed tcl as pcl
+Correctly guessed t
+Incorrectly guessed pau as sil
+Incorrectly guessed dh as d
+Incorrectly guessed eh as ih
+Correctly guessed s
+Incorrectly guessed ah as l
+Incorrectly guessed dcl as dh
+Incorrectly guessed en as m
+Correctly guessed l
+Incorrectly guessed iy as ix
+Correctly guessed w
+Incorrectly guessed uh as l
+Correctly guessed z
+Correctly guessed epi
+Correctly guessed n
+Correctly guessed ow
+Incorrectly guessed hh as k
+Correctly guessed ey
+Incorrectly guessed z as s
+Correctly guessed sil
+Incorrectly guessed sil as pcl
+Incorrectly guessed d as dh
+Incorrectly guessed uh as eh
+Incorrectly guessed n as r
+Incorrectly guessed ae as eh
+Incorrectly guessed s as z
+Incorrectly guessed kcl as epi
+Incorrectly guessed k as f
+Incorrectly guessed m as q
+Correctly guessed ix
+Incorrectly guessed dx as n
+Correctly guessed ix
+Correctly guessed kcl
+Correctly guessed k
+Incorrectly guessed eh as r
+Incorrectly guessed r as er
+Incorrectly guessed ix as r
+Correctly guessed n
+Incorrectly guessed oy as q
+Incorrectly guessed l as el
+Correctly guessed ax
+Incorrectly guessed r as dx
+Correctly guessed ae
+Correctly guessed gcl
+Incorrectly guessed g as hh
+Incorrectly guessed oy as n
+Incorrectly guessed kcl as pcl
+Correctly guessed dh
+Incorrectly guessed ae as n
+Incorrectly guessed tcl as kcl
+Correctly guessed sil
+Incorrectly guessed sil as kcl
+Incorrectly guessed dh as v
+Incorrectly guessed ax as p
+Correctly guessed f
+Incorrectly guessed el as w
+Incorrectly guessed m as n
+Incorrectly guessed uw as ax
+Correctly guessed n
+Correctly guessed sh
+Incorrectly guessed ow as aa
+Incorrectly guessed n as gcl
+Correctly guessed bcl
+Correctly guessed b
+Incorrectly guessed r as ay
+Correctly guessed ay
+Incorrectly guessed tcl as dcl
+Incorrectly guessed l as n
+Incorrectly guessed iy as ix
+Incorrectly guessed dh as gcl
+Incorrectly guessed ae as r
+Incorrectly guessed tcl as gcl
+Incorrectly guessed n as dcl
+Incorrectly guessed ay as axr
+Incorrectly guessed tcl as dcl
+Incorrectly guessed sil as pcl
+Incorrectly guessed sil as pau
+Incorrectly guessed t as d
+Incorrectly guessed ah as aa
+Incorrectly guessed gcl as ax
+Incorrectly guessed b as l
+Incorrectly guessed ow as aa
+Correctly guessed tcl
+Incorrectly guessed s as t
+Incorrectly guessed ix as ih
+Correctly guessed kcl
+Correctly guessed k
+Incorrectly guessed ey as iy
+Incorrectly guessed pcl as bcl
+Incorrectly guessed p as v
+Correctly guessed ax
+Correctly guessed bcl
+Incorrectly guessed b as l
+Incorrectly guessed ax as ao
+Correctly guessed l
+Incorrectly guessed ax as l
+Incorrectly guessed v as f
+Incorrectly guessed hh as p
+Incorrectly guessed ao as l
+Correctly guessed l
+Incorrectly guessed iy as dh
+Incorrectly guessed ng as n
+Incorrectly guessed hh as k
+Incorrectly guessed ux as m
+Correctly guessed dcl
+Incorrectly guessed jh as sh
+Correctly guessed l
+Incorrectly guessed ow as l
+Incorrectly guessed dcl as tcl
+Correctly guessed z
+Incorrectly guessed sil as pau
+Incorrectly guessed sil as tcl
+Incorrectly guessed d as z
+Correctly guessed ih
+Correctly guessed dcl
+Incorrectly guessed d as s
+Correctly guessed ae
+Correctly guessed dcl
+Incorrectly guessed d as dcl
+Incorrectly guessed ux as ih
+Incorrectly guessed ae as ay
+Incorrectly guessed kcl as dcl
+Incorrectly guessed k as d
+Incorrectly guessed ix as ih
+Correctly guessed dcl
+Correctly guessed d
+Correctly guessed eh
+Incorrectly guessed m as er
+Incorrectly guessed ix as r
+Incorrectly guessed kcl as bcl
+Incorrectly guessed b as ih
+Incorrectly guessed ih as eh
+Incorrectly guessed dx as ih
+Correctly guessed ih
+Incorrectly guessed ng as m
+Incorrectly guessed sil as epi
+Correctly guessed sil
+Incorrectly guessed sh as ch
+Correctly guessed iy
+Incorrectly guessed hv as t
+Incorrectly guessed ae as eh
+Correctly guessed dcl
+Incorrectly guessed jh as t
+Correctly guessed axr
+Incorrectly guessed dcl as kcl
+Incorrectly guessed d as q
+Correctly guessed aa
+Correctly guessed r
+Incorrectly guessed kcl as tcl
+Incorrectly guessed s as z
+Correctly guessed ux
+Correctly guessed q
+Incorrectly guessed en as n
+Incorrectly guessed gcl as kcl
+Correctly guessed g
+Incorrectly guessed r as axr
+Correctly guessed iy
+Correctly guessed s
+Incorrectly guessed ix as ux
+Incorrectly guessed w as l
+Incorrectly guessed aa as q
+Correctly guessed sh
+Incorrectly guessed q as pau
+Incorrectly guessed w as q
+Incorrectly guessed aa as q
+Incorrectly guessed dx as axr
+Correctly guessed axr
+Correctly guessed q
+Correctly guessed aa
+Incorrectly guessed l as q
+Correctly guessed y
+Incorrectly guessed ix as gcl
+Incorrectly guessed axr as tcl
+Correctly guessed sil
+Incorrectly guessed sil as kcl
+Correctly guessed dh
+Correctly guessed ih
+Correctly guessed th
+Incorrectly guessed ih as ey
+Correctly guessed kcl
+Incorrectly guessed k as tcl
+Correctly guessed q
+Incorrectly guessed eh as ay
+Correctly guessed l
+Incorrectly guessed m as ax
+Incorrectly guessed epi as pcl
+Incorrectly guessed f as sil
+Correctly guessed aa
+Incorrectly guessed r as ay
+Incorrectly guessed ix as ae
+Incorrectly guessed s as z
+Incorrectly guessed epi as dh
+Correctly guessed w
+Correctly guessed ax
+Correctly guessed z
+Incorrectly guessed epi as tcl
+Incorrectly guessed n as m
+Incorrectly guessed ih as ey
+Incorrectly guessed l as ao
+Correctly guessed iy
+Correctly guessed q
+Correctly guessed ow
+Incorrectly guessed v as tcl
+Incorrectly guessed ax as w
+Correctly guessed w
+Incorrectly guessed eh as oy
+Incorrectly guessed l as ow
+Incorrectly guessed m as bcl
+Correctly guessed bcl
+Incorrectly guessed b as p
+Correctly guessed ay
+Incorrectly guessed dcl as tcl
+Correctly guessed d
+Incorrectly guessed ah as ae
+Incorrectly guessed tcl as dcl
+Incorrectly guessed ch as t
+Incorrectly guessed q as tcl
+Incorrectly guessed eh as ow
+Incorrectly guessed l as ow
+Correctly guessed m
+Incorrectly guessed dcl as bcl
+Incorrectly guessed d as z
+Incorrectly guessed ix as ih
+Correctly guessed z
+Correctly guessed iy
+Correctly guessed z
+Correctly guessed sil
+Incorrectly guessed sil as pcl
+Incorrectly guessed k as p
+Incorrectly guessed aw as ah
+Incorrectly guessed n as l
+Incorrectly guessed tcl as s
+Incorrectly guessed dh as p
+Incorrectly guessed ax as ow
+Incorrectly guessed n as b
+Correctly guessed ah
+Incorrectly guessed m as oy
+Incorrectly guessed axr as ow
+Incorrectly guessed ax as ae
+Correctly guessed v
+Incorrectly guessed tcl as pcl
+Correctly guessed t
+Incorrectly guessed iy as hv
+Correctly guessed s
+Correctly guessed pcl
+Incorrectly guessed p as k
+Incorrectly guessed uw as ae
+Incorrectly guessed n as ix
+Incorrectly guessed z as s
+Incorrectly guessed q as ah
+Incorrectly guessed ah as l
+Incorrectly guessed v as z
+Correctly guessed s
+Incorrectly guessed oy as ow
+Correctly guessed s
+Incorrectly guessed ao as l
+Correctly guessed s
+Incorrectly guessed dh as z
+Incorrectly guessed eh as ey
+Incorrectly guessed tcl as f
+Incorrectly guessed ch as sh
+Incorrectly guessed uw as ih
+Incorrectly guessed ae as ih
+Incorrectly guessed dcl as dh
+Incorrectly guessed sil as f
+Correctly guessed sil
+Incorrectly guessed q as dcl
+Correctly guessed kcl
+Incorrectly guessed k as p
+Incorrectly guessed aa as ay
+Incorrectly guessed tcl as kcl
+Correctly guessed t
+Incorrectly guessed uw as ey
+Correctly guessed n
+Correctly guessed f
+Incorrectly guessed iy as ix
+Incorrectly guessed tcl as dcl
+Incorrectly guessed ch as sh
+Correctly guessed ix
+Correctly guessed z
+Correctly guessed ax
+Correctly guessed m
+Correctly guessed ah
+Correctly guessed s
+Correctly guessed kcl
+Incorrectly guessed k as axr
+Incorrectly guessed r as axr
+Incorrectly guessed ae as r
+Correctly guessed tcl
+Incorrectly guessed ax as v
+Incorrectly guessed nx as v
+Incorrectly guessed ax as dx
+Correctly guessed tcl
+Correctly guessed t
+Correctly guessed ae
+Correctly guessed dcl
+Correctly guessed p
+Incorrectly guessed el as l
+Correctly guessed sil
+Correctly guessed sil
+Incorrectly guessed n as tcl
+Incorrectly guessed ow as w
+Correctly guessed w
+Correctly guessed iy
+Correctly guessed dcl
+Incorrectly guessed jh as sh
+Incorrectly guessed ih as ey
+Incorrectly guessed n as ix
+Incorrectly guessed s as z
+Incorrectly guessed epi as sil
+Correctly guessed w
+Incorrectly guessed eh as ao
+Incorrectly guessed dx as ey
+Incorrectly guessed ih as ix
+Correctly guessed z
+Incorrectly guessed ah as ax
+Incorrectly guessed m as n
+Correctly guessed ey
+Incorrectly guessed dcl as n
+Incorrectly guessed d as dh
+Incorrectly guessed ax as ux
+Incorrectly guessed v as el
+Correctly guessed l
+Incorrectly guessed ae as ey
+Incorrectly guessed m as dx
+Incorrectly guessed z as t
+Incorrectly guessed epi as pau
+Correctly guessed w
+Incorrectly guessed uh as w
+Incorrectly guessed l as w
+Incorrectly guessed sil as pau
+Correctly guessed sil
+Incorrectly guessed w as m
+Incorrectly guessed iy as ix
+Incorrectly guessed th as f
+Incorrectly guessed ih as ix
+Incorrectly guessed ng as dcl
+Incorrectly guessed kcl as dcl
+Incorrectly guessed d as axr
+Correctly guessed ih
+Correctly guessed f
+Incorrectly guessed r as axr
+Incorrectly guessed ix as dx
+Incorrectly guessed n as gcl
+Incorrectly guessed l as ah
+Incorrectly guessed iy as n
+Correctly guessed sil
+Incorrectly guessed sil as kcl
+Incorrectly guessed q as iy
+Incorrectly guessed ey as ix
+Correctly guessed tcl
+Correctly guessed t
+Incorrectly guessed ux as ix
+Incorrectly guessed th as z
+Correctly guessed pcl
+Incorrectly guessed p as d
+Incorrectly guessed ey as ih
+Correctly guessed s
+Incorrectly guessed tcl as th
+Incorrectly guessed t as s
+Incorrectly guessed uw as ux
+Incorrectly guessed bcl as dcl
+Incorrectly guessed b as p
+Correctly guessed pau
+Incorrectly guessed sh as t
+Incorrectly guessed uh as axr
+Correctly guessed bcl
+Incorrectly guessed b as dx
+Incorrectly guessed iy as ix
+Correctly guessed s
+Incorrectly guessed kcl as sil
+Incorrectly guessed k as q
+Incorrectly guessed w as ax
+Incorrectly guessed iy as ux
+Correctly guessed z
+Correctly guessed f
+Incorrectly guessed em as ax
+Incorrectly guessed dh as ay
+Incorrectly guessed ax as ow
+Correctly guessed bcl
+Incorrectly guessed b as v
+Correctly guessed aa
+Incorrectly guessed dx as r
+Incorrectly guessed ax as ah
+Incorrectly guessed m as pau
+Incorrectly guessed sil as pcl
+Correctly guessed sil
+Incorrectly guessed r as ae
+Incorrectly guessed ae as eh
+Incorrectly guessed nx as eh
+Incorrectly guessed ix as ae
+Incorrectly guessed w as aa
+Incorrectly guessed ey as eh
+Incorrectly guessed ix as aw
+Incorrectly guessed nx as ay
+Incorrectly guessed ax as ay
+Incorrectly guessed bcl as pcl
+Incorrectly guessed b as l
+Incorrectly guessed l as aa
+Correctly guessed ae
+Incorrectly guessed kcl as ix
+Incorrectly guessed n as eh
+Incorrectly guessed ay as ae
+Incorrectly guessed q as ax
+Incorrectly guessed w as ax
+Incorrectly guessed ix as dh
+Incorrectly guessed th as k
+Incorrectly guessed ax as aa
+Correctly guessed l
+Incorrectly guessed ao as aa
+Correctly guessed f
+Incorrectly guessed el as ow
+Correctly guessed w
+Incorrectly guessed eh as aw
+Incorrectly guessed dx as aa
+Incorrectly guessed ix as ax
+Incorrectly guessed dcl as n
+Incorrectly guessed m as n
+Incorrectly guessed ae as ix
+Correctly guessed n
+Incorrectly guessed sil as pau
+Incorrectly guessed sil as tcl
+Incorrectly guessed d as t
+Incorrectly guessed ow as ah
+Incorrectly guessed n as dh
+Correctly guessed q
+Correctly guessed ae
+Incorrectly guessed s as ch
+Incorrectly guessed epi as z
+Incorrectly guessed m as ih
+Incorrectly guessed iy as ix
+Incorrectly guessed dx as ih
+Incorrectly guessed ix as ih
+Correctly guessed kcl
+Correctly guessed k
+Incorrectly guessed eh as ih
+Correctly guessed r
+Correctly guessed iy
+Correctly guessed ix
+Incorrectly guessed n as dh
+Correctly guessed q
+Incorrectly guessed oy as eh
+Incorrectly guessed l as ey
+Correctly guessed iy
+Incorrectly guessed r as er
+Incorrectly guessed ae as ih
+Incorrectly guessed gcl as dcl
+Incorrectly guessed g as l
+Correctly guessed l
+Incorrectly guessed ay as ix
+Incorrectly guessed kcl as k
+Incorrectly guessed k as g
+Correctly guessed dh
+Correctly guessed ae
+Incorrectly guessed tcl as kcl
+Incorrectly guessed t as f
+Correctly guessed sil
+Incorrectly guessed sil as tcl
+Incorrectly guessed d as s
+Incorrectly guessed ow as ae
+Incorrectly guessed n as q
+Incorrectly guessed tcl as kcl
+Incorrectly guessed ae as aa
+Correctly guessed s
+Incorrectly guessed kcl as k
+Incorrectly guessed k as sh
+Incorrectly guessed m as n
+Incorrectly guessed ix as iy
+Incorrectly guessed tcl as dcl
+Incorrectly guessed t as y
+Incorrectly guessed ux as ix
+Correctly guessed kcl
+Correctly guessed k
+Incorrectly guessed eh as r
+Incorrectly guessed r as ay
+Correctly guessed iy
+Incorrectly guessed ix as ae
+Correctly guessed n
+Correctly guessed q
+Incorrectly guessed oy as ao
+Incorrectly guessed l as ah
+Incorrectly guessed iy as ey
+Correctly guessed r
+Incorrectly guessed ae as ay
+Incorrectly guessed gcl as kcl
+Incorrectly guessed g as l
+Incorrectly guessed l as ao
+Correctly guessed ay
+Correctly guessed kcl
+Incorrectly guessed k as g
+Incorrectly guessed dh as sil
+Incorrectly guessed ae as ay
+Correctly guessed tcl
+Incorrectly guessed t as s
+Correctly guessed sil
+Incorrectly guessed sil as pau
+Incorrectly guessed ih as iy
+Incorrectly guessed n as ih
+Incorrectly guessed d as iy
+Correctly guessed eh
+Incorrectly guessed kcl as k
+Correctly guessed k
+Incorrectly guessed s as tcl
+Incorrectly guessed w as ih
+Incorrectly guessed er as aa
+Correctly guessed dcl
+Incorrectly guessed d as sh
+Incorrectly guessed z as sh
+Correctly guessed q
+Incorrectly guessed ix as eh
+Incorrectly guessed nx as aa
+Incorrectly guessed ax as aa
+Correctly guessed l
+Correctly guessed eh
+Correctly guessed kcl
+Incorrectly guessed t as f
+Incorrectly guessed r as aa
+Correctly guessed aa
+Incorrectly guessed nx as ae
+Incorrectly guessed ix as ay
+Correctly guessed kcl
+Incorrectly guessed k as sh
+Incorrectly guessed s as sh
+Incorrectly guessed epi as k
+Correctly guessed w
+Correctly guessed ih
+Correctly guessed tcl
+Incorrectly guessed ch as sh
+Correctly guessed ih
+Incorrectly guessed z as sh
+Incorrectly guessed epi as dh
+Incorrectly guessed m as n
+Incorrectly guessed ey as iy
+Incorrectly guessed bcl as dcl
+Incorrectly guessed b as ix
+Correctly guessed iy
+Correctly guessed r
+Incorrectly guessed ux as ih
+Incorrectly guessed z as t
+Incorrectly guessed er as aa
+Incorrectly guessed v as ax
+Incorrectly guessed dcl as th
+Incorrectly guessed d as t
+Correctly guessed q
+Incorrectly guessed ix as m
+Incorrectly guessed n as ih
+Incorrectly guessed dh as z
+Incorrectly guessed ax as l
+Incorrectly guessed f as sh
+Incorrectly guessed aa as l
+Correctly guessed l
+Incorrectly guessed ow as aa
+Incorrectly guessed iy as ae
+Incorrectly guessed ng as n
+Incorrectly guessed w as ow
+Incorrectly guessed ey as iy
+Incorrectly guessed epi as tcl
+Incorrectly guessed z as sh
+Correctly guessed sil
+Correctly guessed sil
+Incorrectly guessed dh as q
+Incorrectly guessed iy as ih
+Incorrectly guessed ae as eh
+Correctly guessed v
+Incorrectly guessed el as l
+Incorrectly guessed ae as eh
+Correctly guessed n
+Incorrectly guessed ch as sh
+Incorrectly guessed tcl as kcl
+Correctly guessed t
+Correctly guessed r
+Incorrectly guessed ih as r
+Correctly guessed gcl
+Incorrectly guessed g as dcl
+Correctly guessed axr
+Incorrectly guessed dcl as gcl
+Incorrectly guessed d as axr
+Incorrectly guessed ah as r
+Incorrectly guessed m as n
+Incorrectly guessed ay as aa
+Incorrectly guessed nx as n
+Incorrectly guessed axr as q
+Correctly guessed q
+Incorrectly guessed er as r
+Incorrectly guessed th as kcl
+Correctly guessed kcl
+Correctly guessed k
+Incorrectly guessed w as ao
+Incorrectly guessed ey as q
+Incorrectly guessed kcl as tcl
+Correctly guessed sil
+Incorrectly guessed sil as pau
+Incorrectly guessed d as t
+Incorrectly guessed ow as axr
+Incorrectly guessed n as dcl
+Incorrectly guessed q as r
+Correctly guessed ae
+Incorrectly guessed s as k
+Incorrectly guessed epi as pau
+Incorrectly guessed m as dx
+Correctly guessed iy
+Correctly guessed tcl
+Incorrectly guessed t as jh
+Incorrectly guessed ix as dcl
+Incorrectly guessed kcl as tcl
+Correctly guessed k
+Incorrectly guessed eh as aa
+Incorrectly guessed r as ay
+Correctly guessed iy
+Incorrectly guessed ix as iy
+Incorrectly guessed n as dx
+Correctly guessed q
+Incorrectly guessed oy as aa
+Incorrectly guessed l as ix
+Correctly guessed iy
+Incorrectly guessed r as axr
+Correctly guessed ae
+Incorrectly guessed gcl as kcl
+Correctly guessed g
+Correctly guessed l
+Incorrectly guessed ay as ix
+Correctly guessed kcl
+Incorrectly guessed k as kcl
+Incorrectly guessed dh as k
+Incorrectly guessed ae as r
+Incorrectly guessed q as sil
+Incorrectly guessed sil as pcl
+Correctly guessed sil
+Incorrectly guessed dh as v
+Incorrectly guessed ix as ae
+Incorrectly guessed th as dh
+Incorrectly guessed ih as eh
+Incorrectly guessed kcl as tcl
+Correctly guessed k
+Correctly guessed q
+Incorrectly guessed eh as ax
+Correctly guessed l
+Incorrectly guessed m as ax
+Correctly guessed f
+Incorrectly guessed ao as ow
+Correctly guessed r
+Correctly guessed ih
+Incorrectly guessed s as sh
+Incorrectly guessed epi as k
+Incorrectly guessed w as r
+Correctly guessed ax
+Correctly guessed z
+Correctly guessed n
+Correctly guessed ih
+Correctly guessed l
+Correctly guessed iy
+Incorrectly guessed q as ix
+Correctly guessed ow
+Correctly guessed v
+Incorrectly guessed axr as ax
+Incorrectly guessed w as l
+Incorrectly guessed eh as aa
+Incorrectly guessed l as ah
+Incorrectly guessed m as ix
+Correctly guessed dcl
+Incorrectly guessed b as ax
+Incorrectly guessed ay as ow
+Correctly guessed dcl
+Incorrectly guessed d as t
+Incorrectly guessed ah as ey
+Correctly guessed sh
+Correctly guessed q
+Incorrectly guessed eh as ax
+Incorrectly guessed l as ax
+Incorrectly guessed m as ix
+Correctly guessed dcl
+Incorrectly guessed d as p
+Correctly guessed ix
+Incorrectly guessed z as s
+Incorrectly guessed iy as ix
+Correctly guessed z
+Correctly guessed sil
+Incorrectly guessed sil as kcl
+Incorrectly guessed jh as sh
+Incorrectly guessed ah as ow
+Incorrectly guessed s as t
+Incorrectly guessed tcl as p
+Incorrectly guessed l as ow
+Incorrectly guessed eh as aa
+Incorrectly guessed tcl as kcl
+Correctly guessed m
+Incorrectly guessed iy as y
+Correctly guessed dcl
+Correctly guessed d
+Incorrectly guessed ay as ae
+Incorrectly guessed ih as ix
+Correctly guessed n
+Incorrectly guessed pcl as tcl
+Correctly guessed p
+Correctly guessed iy
+Incorrectly guessed s as t
+Correctly guessed sil
+Incorrectly guessed sil as pau
+Incorrectly guessed w as l
+Incorrectly guessed ih as ah
+Incorrectly guessed nx as ow
+Incorrectly guessed ao as ah
+Incorrectly guessed l as ow
+Incorrectly guessed eh as l
+Incorrectly guessed l as ax
+Incorrectly guessed s as ch
+Correctly guessed f
+Incorrectly guessed ey as eh
+Correctly guessed l
+Correctly guessed z
+Correctly guessed y
+Incorrectly guessed ux as ix
+Correctly guessed z
+Correctly guessed f
+Incorrectly guessed ao as w
+Incorrectly guessed r as aa
+Incorrectly guessed s as tcl
+Incorrectly guessed sil as pau
+Correctly guessed sil
+Correctly guessed dh
+Correctly guessed ax
+Correctly guessed s
+Incorrectly guessed kcl as k
+Correctly guessed k
+Incorrectly guessed ah as aa
+Correctly guessed l
+Incorrectly guessed pcl as pau
+Incorrectly guessed t as d
+Incorrectly guessed ax as l
+Correctly guessed l
+Incorrectly guessed uh as ow
+Correctly guessed kcl
+Incorrectly guessed t as d
+Incorrectly guessed ih as eh
+Incorrectly guessed tcl as f
+Correctly guessed hv
+Incorrectly guessed ih as ay
+Incorrectly guessed m as ax
+Correctly guessed pau
+Incorrectly guessed b as p
+Incorrectly guessed ah as aa
+Correctly guessed gcl
+Incorrectly guessed g as p
+Incorrectly guessed ay as eh
+Correctly guessed dcl
+Incorrectly guessed d as q
+Correctly guessed q
+Incorrectly guessed ae as eh
+Incorrectly guessed n as m
+Incorrectly guessed dcl as n
+Incorrectly guessed ix as ax
+Correctly guessed m
+Incorrectly guessed ey as ih
+Incorrectly guessed z as s
+Incorrectly guessed dcl as s
+Incorrectly guessed d as z
+Incorrectly guessed pau as tcl
+Correctly guessed q
+Incorrectly guessed ae as eh
+Incorrectly guessed ng as n
+Incorrectly guessed gcl as dcl
+Incorrectly guessed g as bcl
+Correctly guessed r
+Correctly guessed iy
+Incorrectly guessed sil as pau
+Correctly guessed sil
+Incorrectly guessed q as k
+Incorrectly guessed ax as l
+Correctly guessed f
+Incorrectly guessed l as aa
+Incorrectly guessed ae as aa
+Incorrectly guessed sh as ch
+Incorrectly guessed ix as er
+Correctly guessed l
+Incorrectly guessed ux as ih
+Incorrectly guessed m as ax
+Incorrectly guessed ix as ih
+Incorrectly guessed n as ih
+Correctly guessed dh
+Incorrectly guessed ih as eh
+Correctly guessed tcl
+Incorrectly guessed t as sh
+Incorrectly guessed r as ih
+Correctly guessed iy
+Incorrectly guessed z as s
+Correctly guessed ah
+Correctly guessed z
+Incorrectly guessed ix as b
+Correctly guessed kcl
+Correctly guessed k
+Incorrectly guessed er as ae
+Correctly guessed kcl
+Correctly guessed k
+Incorrectly guessed ix as iy
+Correctly guessed dcl
+Incorrectly guessed b as ow
+Correctly guessed ow
+Correctly guessed l
+Correctly guessed tcl
+Incorrectly guessed t as p
+Incorrectly guessed w as ow
+Correctly guessed ih
+Incorrectly guessed gcl as dcl
+Correctly guessed d
+Incorrectly guessed ix as ih
+Incorrectly guessed n as dh
+Correctly guessed s
+Incorrectly guessed eh as oy
+Correctly guessed v
+Incorrectly guessed r as oy
+Correctly guessed el
+Correctly guessed dcl
+Incorrectly guessed d as t
+Incorrectly guessed axr as r
+Incorrectly guessed eh as ay
+Incorrectly guessed kcl as dcl
+Correctly guessed sh
+Incorrectly guessed epi as t
+Incorrectly guessed en as v
+Incorrectly guessed epi as v
+Correctly guessed s
+Incorrectly guessed sil as tcl
+Correctly guessed sil
+Correctly guessed dh
+Correctly guessed ih
+Correctly guessed s
+Incorrectly guessed ix as ih
+Correctly guessed z
+Correctly guessed pcl
+Incorrectly guessed p as dh
+Incorrectly guessed ix as ih
+Correctly guessed tcl
+Incorrectly guessed t as s
+Incorrectly guessed ih as ux
+Incorrectly guessed k as sh
+Incorrectly guessed y as eh
+Incorrectly guessed el as l
+Incorrectly guessed l as ih
+Correctly guessed iy
+Incorrectly guessed tcl as pcl
+Incorrectly guessed t as k
+Incorrectly guessed r as eh
+Incorrectly guessed uw as ow
+Incorrectly guessed w as l
+Incorrectly guessed ix as n
+Correctly guessed n
+Incorrectly guessed s as z
+Correctly guessed ay
+Correctly guessed s
+Incorrectly guessed el as l
+Incorrectly guessed eh as aa
+Correctly guessed kcl
+Incorrectly guessed k as sh
+Correctly guessed sh
+Incorrectly guessed en as dcl
+Correctly guessed sil
+Incorrectly guessed sil as pau
+Incorrectly guessed w as r
+Incorrectly guessed iy as ux
+Incorrectly guessed w as ux
+Incorrectly guessed ix as r
+Incorrectly guessed dcl as bcl
+Incorrectly guessed d as z
+Incorrectly guessed l as z
+Incorrectly guessed ux as ey
+Correctly guessed z
+Incorrectly guessed aa as ae
+Incorrectly guessed r as ae
+Incorrectly guessed eh as ih
+Incorrectly guessed kcl as tcl
+Incorrectly guessed k as sh
+Incorrectly guessed s as sh
+Incorrectly guessed pcl as pau
+Incorrectly guessed p as ao
+Correctly guessed ao
+Incorrectly guessed r as axr
+Incorrectly guessed tcl as sil
+Correctly guessed m
+Incorrectly guessed aa as ay
+Incorrectly guessed r as ae
+Incorrectly guessed kcl as pcl
+Correctly guessed k
+Incorrectly guessed ix as eh
+Incorrectly guessed tcl as dh
+Incorrectly guessed t as k
+Incorrectly guessed s as z
+Incorrectly guessed ix as t
+Incorrectly guessed n as m
+Incorrectly guessed dcl as bcl
+Incorrectly guessed d as dcl
+Correctly guessed ax
+Incorrectly guessed n as m
+Correctly guessed ay
+Incorrectly guessed aa as eh
+Incorrectly guessed r as ix
+Incorrectly guessed s as z
+Incorrectly guessed eh as ax
+Correctly guessed l
+Correctly guessed z
+Correctly guessed iy
+correctly guessed r as ae
+Incorrectly guessed kcl as tcl
+Incorrectly guessed k as sil
+Incorrectly guessed ix as ae
+Correctly guessed tcl
+Incorrectly guessed t as s
+Correctly guessed s
+Incorrectly guessed ix as s
+Correctly guessed n
+Incorrectly guessed dcl as tcl
+Incorrectly guessed d as sil
+Incorrectly guessed ax as s
+Incorrectly guessed n as ix
+Incorrectly guessed ay as ae
+Incorrectly guessed aa as ae
+Incorrectly guessed r as ae
+Correctly guessed s
+Incorrectly guessed eh as ae
+Correctly guessed l
+Correctly guessed z
+Correctly guessed iy
+Incorrectly guessed ih as ix
+Incorrectly guessed m as tcl
+Incorrectly guessed pcl as sil
+Incorrectly guessed p as sil
+Incorrectly guessed ao as ow
+Incorrectly guessed tcl as sil
+Incorrectly guessed t as tcl
+Correctly guessed s
+Incorrectly guessed epi as pau
+Incorrectly guessed w as ix
+Incorrectly guessed iy as ix
+Incorrectly guessed n as kcl
+Correctly guessed iy
+Incorrectly guessed dcl as sil
+Incorrectly guessed sil as tcl
+Correctly guessed sil
+Correctly guessed k
+Incorrectly guessed aw as aa
+Incorrectly guessed n as tcl
+Incorrectly guessed tcl as sil
+Incorrectly guessed dh as k
+Correctly guessed ix
+Incorrectly guessed n as dcl
+Incorrectly guessed ah as aa
+Incorrectly guessed m as gcl
+Incorrectly guessed bcl as sil
+Incorrectly guessed b as s
+Incorrectly guessed er as axr
+Incorrectly guessed ix as r
+Incorrectly guessed v as sil
+Incorrectly guessed tcl as sil
+Incorrectly guessed t as k
+Correctly guessed iy
+Correctly guessed s
+Incorrectly guessed pcl as sil
+Incorrectly guessed p as pau
+Incorrectly guessed uw as n
+Incorrectly guessed n as ix
+Correctly guessed z
+Incorrectly guessed ah as ix
+Incorrectly guessed v as s
+Incorrectly guessed s as z
+Incorrectly guessed ow as ix
+Incorrectly guessed iy as ix
+Correctly guessed s
+Incorrectly guessed ao as aa
+Correctly guessed s
+Incorrectly guessed dh as tcl
+Incorrectly guessed eh as ix
+Correctly guessed tcl
+Incorrectly guessed ch as tcl
+Incorrectly guessed uw as ix
+Correctly guessed ae
+Incorrectly guessed dcl as sil
+Correctly guessed sil
+Correctly guessed sil
+Incorrectly guessed f as sil
+Incorrectly guessed ay as aa
+Incorrectly guessed n as tcl
+Incorrectly guessed l as ix
+Incorrectly guessed iy as ix
+Incorrectly guessed hv as kcl
+Correctly guessed iy
+Incorrectly guessed ae as ay
+Correctly guessed s
+Incorrectly guessed tcl as sil
+Incorrectly guessed t as pau
+Incorrectly guessed pau as sil
+Incorrectly guessed d as z
+Incorrectly guessed ix as iy
+Incorrectly guessed y as ix
+Incorrectly guessed ux as ix
+Incorrectly guessed ax as gcl
+Incorrectly guessed bcl as sil
+Incorrectly guessed jh as s
+Incorrectly guessed eh as ae
+Incorrectly guessed kcl as sil
+Incorrectly guessed t as s
+Incorrectly guessed ux as ix
+Incorrectly guessed pcl as sil
+Incorrectly guessed p as sil
+Incorrectly guessed eh as aa
+Incorrectly guessed dx as ix
+Incorrectly guessed ih as ix
+Incorrectly guessed ng as dcl
+Correctly guessed sil
+accuracy is: 28%
